@@ -52,7 +52,7 @@
 ## Сертификаты
 
 - **Тестирование ПО с нуля. Теория + Практика** – [stepik.org]
-![Фото](https://github.com/EvgenSanyc/Evgeny-Gorynin/blob/main/assets/Sert1.png)
+![Фото](https://github.com/EvgenSanyc/Evgeny-Gorynin/blob/main/assets/1.png)
 - **Интерактивный тренажер по SQL** – [stepik.org]
 
 ## Образование
